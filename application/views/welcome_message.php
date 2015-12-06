@@ -341,7 +341,7 @@
 					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Portfolio</a></li>
 				</ul>
 				<ul>
-					<li><a href="#about"><i class="fa fa-user"></i>Tentnang Saya</a></li>
+					<li><a href="#about"><i class="fa fa-user"></i>Tentang Saya</a></li>
 					<li><a href="#download"><i class="fa fa-phone"></i>Kontak</a></li>
 				</ul>
 			</nav>
