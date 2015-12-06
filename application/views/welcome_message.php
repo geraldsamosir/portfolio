@@ -199,7 +199,7 @@
 								<img src="<?php echo  base_url(); ?>style/img/01-screenshot.jpg" alt="Screenshot 01">
 								<figcaption>
 								<div class="caption-content">
-									<a href="img/large/01.jpg" class="single_image">
+									<a href="<?php echo  base_url(); ?>style/img/01-screenshot.jpg" class="single_image">
 										<i class="fa fa-search"></i><br>
 										<p>Optimised For Design</p>
 									</a>
@@ -212,7 +212,7 @@
 								<img src="<?php echo  base_url(); ?>style/img/02-screenshot.jpg" alt="Screenshot 01">
 								<figcaption>
 								<div class="caption-content">
-									<a href="img/large/02.jpg" class="single_image">
+									<a href="<?php echo  base_url(); ?>style/img/02-screenshot.jpg" class="single_image">
 										<i class="fa fa-search"></i><br>
 										<p>User Centric Design</p>
 									</a>
@@ -225,7 +225,7 @@
 								<img src="<?php echo  base_url(); ?>style/img/03-screenshot.jpg" alt="Screenshot 01">
 								<figcaption>
 								<div class="caption-content">
-									<a href="img/large/03.jpg" class="single_image">
+									<a href="<?php echo  base_url(); ?>style/img/03-screenshot.jpg" class="single_image">
 										<i class="fa fa-search"></i><br>
 										<p>Responsive and Adaptive</p>
 									</a>
@@ -238,7 +238,7 @@
 								<img src="<?php echo  base_url(); ?>style/img/04-screenshot.jpg" alt="Screenshot 01">
 								<figcaption>
 								<div class="caption-content">
-									<a href="img/large/04.jpg" class="single_image">
+									<a href="<?php echo  base_url(); ?>style/img/04-screenshot.jpg" class="single_image">
 										<i class="fa fa-search"></i><br>
 										<p>Absolutely Free</p>
 									</a>
@@ -268,7 +268,7 @@
 								<img src="<?php echo  base_url(); ?>style/img/06-screenshot.jpg" alt="Screenshot 01">
 								<figcaption>
 								<div class="caption-content">
-									<a href="img/large/06.jpg" class="single_image">
+									<a href="<?php echo  base_url(); ?>style/img/06-screenshot.jpg" class="single_image">
 										<i class="fa fa-search"></i><br>
 										<p>Exclusive to Codrops</p>
 									</a>
