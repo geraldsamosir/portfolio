@@ -18,6 +18,7 @@
 		<link href="<?php echo  base_url(); ?>style/css/jquery.fancybox.css" rel="stylesheet">
 		<link href="<?php echo  base_url(); ?>style/css/flickity.css" rel="stylesheet" >
 		<link href="css/animate.css" rel="stylesheet">
+		<!-- <link href='https://fonts.googleapis.com/css?family=Lobster|Lora:700|Source+Sans+Pro:600' rel='stylesheet' type='text/css'> -->
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
 		<link href="<?php echo  base_url(); ?>style/css/styles.css" rel="stylesheet">
@@ -50,26 +51,27 @@
 				<div class="container">
 					<div class="row nav-wrapper">
 						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
-							<a href="#"><img src="<?php echo  base_url(); ?>style/img/logo-white.png" alt="Boxify Logo"></a>
+							<a href="<?php echo base_url(); ?>" style="
+    font-family: cursive;color:white;font-style:bold;font-size:50px;">Gerald's</a>
 						</div>
 						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
-							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+							<p style="font-family: 'Lobster'">MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
 						</div>
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">An Exclusive, Premium HTML5 &amp; CSS3 Template by Peter Finlan, for Codrops.</h1>
-							<a href="http://tympanus.net/codrops/?p=22554" class="use-btn animated fadeInUp">Use it for free</a> <a href="#about" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
+							<h1 class="animated fadeInDown">Gerald Halomoan Samosir, Web developer &amp; Seo Analisis <br>Siap membantu anda meroketkan usaha anda .</h1> <a href="#about" class="learn-btn animated fadeInUp">Mari berkenalan Sejenak <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>
 			</section>
 		</header>
-		<section class="video" id="about">
+		<section class="video" id="">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-						<h1><a href="http://www.youtube.com/embed/9No-FiEInLA?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> Watch the Video</a></h1>
+						<h1><a href="http://www.youtube.com/embed/9No-FiEInLA?autoplay=1&wmode=opaque&fs=1" class="youtube-media"><i class="fa fa-play-circle-o"></i> Video</a></h1>
+						<p>Silahkan Klik video di atas betapa pentingnya teknologi <br>informasi dalam meningkatkan dalam meningkatkan laju suatu usaha</p>
 					</div>
 				</div>
 			</div>
@@ -91,17 +93,17 @@
 									<li>
 										<h1>The Fore-front of Design &amp; Technology</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="#features" class="arrow-btn">Find out why this freebie rocks! <i class="fa fa-long-arrow-right"></i></a></p>
+										
 									</li>
 									<li>
 										<h1>Multi-Purpose User Centric Design</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="http://tympanus.net/codrops/?p=22554" class="arrow-btn">Find out why this freebie rocks! <i class="fa fa-long-arrow-right"></i></a></p>
+										
 									</li>
 									<li>
 										<h1>Made with Love, Released for Free</h1>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-										<p><a href="http://tympanus.net/codrops/?p=22554" class="arrow-btn">Find out why this freebie rocks! <i class="fa fa-long-arrow-right"></i></a></p>
+										
 									</li>
 								</ul>
 						</div>
@@ -119,29 +121,30 @@
 								<i class="fa fa-desktop"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Responsive</h1>
-								<p>Built using HTML5/CSS3 and jQuery, and built using one of the world's most powerful CSS frameworks available, Bootstrap.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Web Development</h1>
+								<p>Saya Menyediakan jasa pengembangan website dengan berorientasi terhadap target dan kepuasan pelangan</p>
+								
 							</div>
 						</div>
 						<div class="col-md-4 feature-2 wp2 delay-05s">
 							<div class="feature-icon">
-								<i class="fa fa-flash"></i>
+								<i class="fa fa-rocket"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Multi-Purpose</h1>
-								<p>Perfect if you run your own start-up, product or service. Boxify can showcase your business converting your visits to income.</p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Seo (Search Engine Optimation)</h1>
+								<p>Saya menyediakan jasa analisis seo untuk meningkatkan kemudahan pencarian situs anda 
+								ketika di akses dari mesin pencari </p>
+								
 							</div>
 						</div>
 						<div class="col-md-4 feature-3 wp2 delay-1s">
 							<div class="feature-icon">
-								<i class="fa fa-heart"></i>
+								<i class="fa fa-star"></i>
 							</div>
 							<div class="feature-content">
-								<h1>Absolutely Free</h1>
-								<p>As aways, download Boxify for free exclusively from Codrops. If you love Boxify and want to thank me, simply <a href="http://peterfinlan.com/">buy me a beer</a>. </p>
-								<a href="http://tympanus.net/codrops/?p=22554" class="read-more-btn">Read More <i class="fa fa-chevron-circle-right"></i></a>
+								<h1>Desain grafis dan logo</h1>
+								<p>Saya menyediakan jasa untuk desain grafis dan logo untuk anda dengan berorientasi terhadap kepuasan pelangan</p>
+								
 							</div>
 						</div>
 
@@ -156,34 +159,20 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="device wp3">
-								<div class="device-content">
-									<div class="showcase-slider">
-										<ul class="slides" id="showcaseSlider">
-											<li>
-												<img src="<?php echo  base_url(); ?>style/img/screen1.jpg" alt="Device Content Image">
-											</li>
-											<li>
-												<img src="<?php echo  base_url(); ?>style/img/screen2.jpg" alt="Device Content Image">
-											</li>
-											<li>
-												<img src="<?php echo  base_url(); ?>style/img/screen3.jpg" alt="Device Content Image">
-											</li>
-										</ul>
-									</div>
-								</div>
+								<br>
+								<img src="http://www.traidnt.net/vb/images/imgcache/2015/09/10WebDesignTrendsfor2015-22164177-1.png" style="width:500px;height:300px;" class="img-rounded">
 							</div>
 						</div>
-						<div class="col-md-6">
-							<h1>Showcase your Product or Service</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+						<div class="col-md-6" id="about">
+							<h1>Tentang saya</h1>
+							<p>Nama saya <b>Gerald Halomoan Samosir</b><br>
+							Saya adalah seorang web developer dari medan sumatera utara  ,yang selalu tertarik dengan tantangan baru 
+							dimana setiap hal yang baru memiliki ketertarikan sendiri pada saya 
+							selalu ingin berkreasi dan membuat karya saya bermanfaat bagi orang lain.</p>
 							<blockquote class="team-quote">
-								<div class="avatar"><img src="<?php echo  base_url(); ?>style/img/avatar.png" alt="User Avatar"></div>
-								<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc." - Peter Finlan</p>
-								<div class="logo-quote">
-									<a href="http://tympanus.net/codrops/"><img src="<?php echo  base_url(); ?>style/img/codrops-logo.png" alt="Codrops Logo"></a>
-								</div>
+								<div class="avatar "><img class='img-circle'src="https://scontent-sin1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10378954_886421821432735_5181148156163269542_n.jpg?oh=c90d6b51a6d1f0f830b0456c5dd662a6&oe=56D3F15F" alt="User Avatar" style="height:100px;width:100px;"></div>
+								<p>"Hidup akan sangat berarti bila bermanfaat bagi orang lain." - Gerald Halomoan Samosir</p>
 							</blockquote>
-							<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
 						</div>
 					</div>
 				</div>
@@ -194,9 +183,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
-						<h1>Packed Full of Powerful Features</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-						<p><a href="#screenshots" class="arrow-btn">See the screenshots! <i class="fa fa-long-arrow-right"></i></a></p>
+						<h1 style="
+    font-family:  cursive;font-size:50px;">Portfolio Saya</h1>
+						<p>"Nilai lah saya dari hasil kinerja saya"</p>
 					</div>
 				</div>
 			</div>
@@ -321,8 +310,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center wp4">
-						<h1>Seen Enough?</h1>
-						<a href="http://tympanus.net/codrops/?p=22554" class="download-btn">Download! <i class="fa fa-download"></i></a>
+						<h1>Tertarik Mengunakan jasa saya?</h1>
+						<h1><i class="fa fa-phone"></i>&nbsp;0812-14783849</h1>
 					</div>
 				</div>
 			</div>
@@ -331,17 +320,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5">
-						<h1 class="footer-logo">
-						<img src="<?php echo  base_url(); ?>style/img/logo-blue.png" alt="Footer Logo Blue">
-						</h1>
-						<p>© Boxify 2015 - <a href="http://tympanus.net/codrops/licensing/">Licence</a> - Designed &amp; Developed by <a href="http://www.peterfinlan.com/">Peter Finlan</a></p>
+						
+						<p>© Gerald's 2016 - <a href="<?php base_url(); ?>">Licence</a> - Designed &amp; Developed by <p> Gerald Halomoan Samosir</p></p>
 					</div>
 					<div class="col-md-7">
 						<ul class="footer-nav">
-							<li><a href="#about">About</a></li>
-							<li><a href="#features">Features</a></li>
-							<li><a href="#screenshots">Screenshots</a></li>
-							<li><a href="#download">Download</a></li>
+							<li><a href="#about">Tentang Saya</a></li>
+							<li><a href="#features">Service</a></li>
+							<li><a href="#screenshots">Portfolio</a></li>
+							<li><a href="#download">Kontak</a></li>
 						</ul>
 					</div>
 				</div>
@@ -350,12 +337,12 @@
 		<div class="overlay overlay-boxify">
 			<nav>
 				<ul>
-					<li><a href="#about"><i class="fa fa-heart"></i>About</a></li>
-					<li><a href="#features"><i class="fa fa-flash"></i>Features</a></li>
+					<li><a href="#features"><i class="fa fa-flash"></i>Service</a></li>
+					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Portfolio</a></li>
 				</ul>
 				<ul>
-					<li><a href="#screenshots"><i class="fa fa-desktop"></i>Screenshots</a></li>
-					<li><a href="#download"><i class="fa fa-download"></i>Download</a></li>
+					<li><a href="#about"><i class="fa fa-user"></i>Tentnang Saya</a></li>
+					<li><a href="#download"><i class="fa fa-phone"></i>Kontak</a></li>
 				</ul>
 			</nav>
 		</div>
