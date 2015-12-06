@@ -60,13 +60,13 @@
 					</div>
 					<div class="row hero-content">
 						<div class="col-md-12">
-							<h1 class="animated fadeInDown">Gerald Halomoan Samosir, Web developer &amp; Seo Analisis <br>Siap membantu anda meroketkan usaha anda .</h1> <a href="#about" class="learn-btn animated fadeInUp">Mari berkenalan Sejenak <i class="fa fa-arrow-down"></i></a>
+							<h1 class="animated fadeInDown">Gerald Halomoan Samosir, Web developer &amp; Seo Analisis <br>Siap membantu anda meroketkan usaha anda .</h1> <a href="#isi" class="learn-btn animated fadeInUp">Mari berkenalan Sejenak <i class="fa fa-arrow-down"></i></a>
 						</div>
 					</div>
 				</div>
 			</section>
 		</header>
-		<section class="video" id="">
+		<section class="video" id="isi">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
